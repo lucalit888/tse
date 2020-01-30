@@ -4,6 +4,7 @@
  * see bag.h for more information.
  *
  * David Kotz, April 2016, 2017, 2019
+ * Temi Prioleau, January 2020
  */
 
 #include <stdio.h>

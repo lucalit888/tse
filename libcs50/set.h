@@ -8,7 +8,8 @@
  * update pairs.  Items are distinguished by their key.
  *
  * David Kotz, April 2016, 2017, 2019
- * updated by Xia Zhou, July 2016
+ * Updated by Xia Zhou, July 2016
+ * Updated by Temi Prioleau, January 2020
  */
 
 #ifndef __SET_H

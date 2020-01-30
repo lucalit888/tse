@@ -8,6 +8,7 @@
  * any item from the bag. 
  *
  * David Kotz, April 2016, 2017, 2019
+ * Updated by Temi Prioleau, January 2020
  */
 
 #ifndef __BAG_H

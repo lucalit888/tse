@@ -9,6 +9,7 @@
  *    if NULL occurs, kick out an error and die.
  *
  * David Kotz, April 2016, 2017, 2019
+ * Updated by Temi Prioleau, January 2020
  */
 
 #include <stdio.h>

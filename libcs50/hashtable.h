@@ -5,7 +5,8 @@
  * but is far more efficient for large collections.
  *
  * David Kotz, April 2016, 2017, 2019
- * updated by Xia Zhou, July 2016
+ * Updated by Xia Zhou, July 2016
+ * Updated by Temi Prioleau, January 2020
  */
 
 #ifndef __HASHTABLE_H

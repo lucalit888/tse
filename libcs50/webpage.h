@@ -4,6 +4,7 @@
  * Ira Ray Jenkins - April 2014
  * 
  * Updated by David Kotz - April 2016, July 2017, April 2019
+ * Updated by Temi Prioleau, January 2020
  *
  */
 
