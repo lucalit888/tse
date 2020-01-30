@@ -2,6 +2,7 @@
  * file utilities - reading a word, line, or entire file
  * 
  * David Kotz, 2016, 2017, 2019
+ * Updated by Temi Prioleau, January 2020
  */
 
 #ifndef __FILE_H

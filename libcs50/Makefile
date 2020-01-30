@@ -7,7 +7,8 @@
 #	cp libcs50-given.a $(LIB)
 #
 # David Kotz, April 2016, July 2017, April 2019
-# updated by Xia Zhou, July 2016
+# Updated by Xia Zhou, July 2016
+# Updated by Temi Prioleau, January 2020
 
 # object files, and the target library
 OBJS = bag.o counters.o file.o hashtable.o jhash.o memory.o set.o webpage.o

@@ -9,7 +9,7 @@
  * asking for the relevant key.
  * 
  * David Kotz, April 2016, 2017, 2019
- * Xia Zhou, July 2017
+ * Temi Prioleau, January 2020
  */
 
 #ifndef __COUNTERS_H
