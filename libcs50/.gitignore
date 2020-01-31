@@ -5,3 +5,7 @@
 # Do NOT push object files to git.
 # The following are specific to this directory:
 libcs50.a
+
+# System files for MacOS
+.DS_Store
+Icon?
